@@ -3,7 +3,8 @@
 # Tools:
 Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-# Goal: This project predicts which Spotify users on free plans are most likely to upgrade to a premium subscription and which premium plan they’d choose (Individual, Family, or Student). The analysis supports Spotify’s marketing efforts by identifying potential subscribers and optimizing promotional strategies
+# Goal: 
+This project predicts which Spotify users on free plans are most likely to upgrade to a premium subscription and which premium plan they’d choose (Individual, Family, or Student). The analysis supports Spotify’s marketing efforts by identifying potential subscribers and optimizing promotional strategies
 
 # Overview:
 Analyzed a Kaggle dataset of 520 users containing behavioral and satisfaction metrics to predict subscription intent.
